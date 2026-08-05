@@ -1,0 +1,40 @@
+[
+  {
+    "id": "prod-1785955689002",
+    "type": "digital",
+    "name": "Snsnsj",
+    "brand": "Essência",
+    "category": "Ksjssjsj",
+    "price": 4464646,
+    "promoPrice": 4646,
+    "shortDescription": "hAhahwhwhah",
+    "images": [
+      ""
+    ],
+    "affiliateLink": "",
+    "tags": [
+      "Whwh"
+    ],
+    "rating": 5,
+    "reviews": 83
+  },
+  {
+    "id": "prod-1785955711953",
+    "type": "digital",
+    "name": "Ahhshs",
+    "brand": "Essência",
+    "category": "Sushsj",
+    "price": 4616,
+    "promoPrice": null,
+    "shortDescription": "Shahsh",
+    "images": [
+      ""
+    ],
+    "affiliateLink": "Shsh",
+    "tags": [
+      "Hwwh"
+    ],
+    "rating": 5,
+    "reviews": 63
+  }
+]
